@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.8197a5b0.css",
-    "main.js": "/personal-portfolio/static/js/main.435d081b.js",
-    "static/media/image2.png": "/personal-portfolio/static/media/image2.cbe1a4e101e493365a18.png",
-    "static/media/image1.png": "/personal-portfolio/static/media/image1.41c21314ef05605a37bc.png",
-    "static/media/image4.png": "/personal-portfolio/static/media/image4.944beba28d0ab5e8662e.png",
-    "static/media/image2.jpg": "/personal-portfolio/static/media/image2.78fb7491863535384fc9.jpg",
-    "static/media/image5.png": "/personal-portfolio/static/media/image5.af1da86e3c02d053fb1e.png",
-    "static/media/image3.png": "/personal-portfolio/static/media/image3.c169807e853b0538f5c7.png",
-    "static/media/github-icon.png": "/personal-portfolio/static/media/github-icon.77fc7f9a283261458d12.png",
-    "static/media/chrome-icon.png": "/personal-portfolio/static/media/chrome-icon.e3d4699f063f363f22ca.png",
-    "static/media/docker-icon.png": "/personal-portfolio/static/media/docker-icon.bf933438c8f5a4bf7621.png",
-    "static/media/react-icon.png": "/personal-portfolio/static/media/react-icon.70612a4786bb8149f220.png",
-    "static/media/java-icon.png": "/personal-portfolio/static/media/java-icon.e77932ff6c45c3d6924f.png",
-    "static/media/spring-icon.png": "/personal-portfolio/static/media/spring-icon.86476bc1c52fcc8e6b27.png",
-    "static/media/profilepic.jpg": "/personal-portfolio/static/media/profilepic.3739181cd03cb8eb4724.jpg",
-    "static/media/graphql-icon.png": "/personal-portfolio/static/media/graphql-icon.6fcf88de878151dfeaac.png",
-    "index.html": "/personal-portfolio/index.html",
-    "main.8197a5b0.css.map": "/personal-portfolio/static/css/main.8197a5b0.css.map",
-    "main.435d081b.js.map": "/personal-portfolio/static/js/main.435d081b.js.map"
+    "main.css": "/static/css/main.8197a5b0.css",
+    "main.js": "/static/js/main.f0288580.js",
+    "static/media/image2.png": "/static/media/image2.cbe1a4e101e493365a18.png",
+    "static/media/image1.png": "/static/media/image1.41c21314ef05605a37bc.png",
+    "static/media/image4.png": "/static/media/image4.944beba28d0ab5e8662e.png",
+    "static/media/image2.jpg": "/static/media/image2.78fb7491863535384fc9.jpg",
+    "static/media/image5.png": "/static/media/image5.af1da86e3c02d053fb1e.png",
+    "static/media/image3.png": "/static/media/image3.c169807e853b0538f5c7.png",
+    "static/media/github-icon.png": "/static/media/github-icon.77fc7f9a283261458d12.png",
+    "static/media/chrome-icon.png": "/static/media/chrome-icon.e3d4699f063f363f22ca.png",
+    "static/media/docker-icon.png": "/static/media/docker-icon.bf933438c8f5a4bf7621.png",
+    "static/media/react-icon.png": "/static/media/react-icon.70612a4786bb8149f220.png",
+    "static/media/java-icon.png": "/static/media/java-icon.e77932ff6c45c3d6924f.png",
+    "static/media/spring-icon.png": "/static/media/spring-icon.86476bc1c52fcc8e6b27.png",
+    "static/media/profilepic.jpg": "/static/media/profilepic.3739181cd03cb8eb4724.jpg",
+    "static/media/graphql-icon.png": "/static/media/graphql-icon.6fcf88de878151dfeaac.png",
+    "index.html": "/index.html",
+    "main.8197a5b0.css.map": "/static/css/main.8197a5b0.css.map",
+    "main.f0288580.js.map": "/static/js/main.f0288580.js.map"
   },
   "entrypoints": [
     "static/css/main.8197a5b0.css",
-    "static/js/main.435d081b.js"
+    "static/js/main.f0288580.js"
   ]
 }
